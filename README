@@ -1,0 +1,5 @@
+﻿
+Windows 版の Internet Explorer, Firefox, Opera の proxy サーバー関連の情報を取得するプログラムです。
+
+* 初出は、CodeZine の記事「各ブラウザのproxyサーバ情報を読み出して利用する」(http://codezine.jp/article/detail/813) です。
+  上記記事で、このプログラムの解説を行なっています。
